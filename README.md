@@ -42,7 +42,6 @@ TXXX=comment=#openair
 
 -- samples/with_popm.mp3
 - MPEG 1 layer 3, 320000 bps (CBR, LAME 3.98.1+), 44100 Hz, 2 chn, 0.00 seconds (audio/mp3)
-POPM=None=0 255/255
 POPM=traktor@native-instruments.de=0 255/255
 TALB=Aleefee
 TBPM=123
