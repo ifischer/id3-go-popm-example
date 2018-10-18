@@ -18,8 +18,5 @@ func main() {
 	}
 
 	popFrame := mp3File.Frame("POPM")
-	log.Println(mp3File)
-	log.Println("test")
-	//println("").(*v2.UnsynchTextFrame)
-	log.Println(popFrame)
+	log.Println(popFrame.String())
 }
