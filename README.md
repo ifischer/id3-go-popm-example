@@ -1,6 +1,7 @@
 # id3-go-popm-example
 
 Example how to read popularimeter frame with id3-go.
+Currently, it does *not* work - I filed an issue for id3-go here: https://github.com/mikkyang/id3-go/issues/35
 
 ## Usage
 
